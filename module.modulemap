@@ -1,0 +1,4 @@
+module CWaylandClient [system] {
+  header "module.h"
+  export *
+}
